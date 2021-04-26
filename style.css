@@ -1,0 +1,57 @@
+/*
+<!--Marcelo Aceituno R
+Full Stack JAVA 0034-->
+*{border: 1px dotted red}
+*/
+.container{
+  background-color: rgba(214, 209, 209, 0.883);
+  margin: 0px auto;
+}
+.celeste{
+  background-color: #689bff;
+}
+.amarillo{
+  background-color: #fecb00;
+}
+.rosado{
+  background-color: #fd9a98;
+}
+.verde{
+  background-color: #1fca21;
+}
+.table{
+  text-align: center;
+  margin: 0px 0px 0px 0px;  
+  border: none;
+  border-collapse:collapse;
+  padding: 0px;
+}
+.numero{
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+.simbolo{
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+.num{
+  color:red;
+}
+.td{
+  padding: 0px;
+  width: 60px;
+  height: 60px;
+  border-collapse: collapse;
+}
+.th{
+  padding: 0px;
+  width: 60px;
+  height: 60px;
+  border-collapse: collapse;
+}
+
